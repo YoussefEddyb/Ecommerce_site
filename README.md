@@ -1,3 +1,1 @@
 # Ecommerce_site
-
-# laravel
